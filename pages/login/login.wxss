@@ -1,0 +1,9 @@
+/* pages/login/login.wxss */
+
+page {
+  background: #f5f5f5;
+}
+
+button {
+  margin: 100px 30px;
+}
